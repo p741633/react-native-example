@@ -1,0 +1,10 @@
+{
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "jshint.enable": false
+  // "jshint.options": {
+  //   "esversion": 6
+  // }
+}
